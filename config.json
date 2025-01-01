@@ -1,4 +1,4 @@
 {
-  "Token": "You bot token",
+  "Token": "YOUR_DISCORD_BOT_TOKEN",
   "BotPrefix": "!"
 }
